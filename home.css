@@ -1,0 +1,93 @@
+.d{
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  top: -1px;
+  
+}
+.a{
+margin-left:600px ;
+color: black;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+}
+.b{
+margin-left:10px ;
+color: white;
+text-decoration: none;
+background-color: #313131;
+border:10px solid #313131;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+border-width: 10px;
+}
+.c{
+margin-left: 10px;
+}
+.e{
+  margin-left: 10px;
+  color: black;
+  text-decoration: none;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+.e:hover{
+  color: #0084ff;
+}
+.a:hover{
+  color: #0084ff;
+}
+
+div{
+  left:-1px;
+}
+.ps4{
+  float: left;
+  margin-left: 100px;
+  margin-right: 20px;
+}
+.ps4_1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.ps4_2{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.ps4_3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.ps4_4{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  border: 1px solid #ff4800;
+  background-color: #ff4800;
+  font-size: 20px;
+  padding: 10px 5px 10px 5px;
+  text-decoration: none;
+  top:10px
+}
+.ps4_4:hover{
+  border-color: #ca3900;
+  background-color: #ca3900;
+}
+.battle{
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+.ben{
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+.pubg{
+    margin-left: 20%;
+}
+.pbg{
+  margin: auto;
+  width: 60%;
+  
+  padding: 10px;
+}
